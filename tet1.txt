@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2EB6-647F
+
+ Directory of C:\Users\abc\Desktop\git-first
+
+01/23/2017  10:41 AM    <DIR>          .
+01/23/2017  10:41 AM    <DIR>          ..
+01/23/2017  10:41 AM                 0 tet1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,229,474,816 bytes free
